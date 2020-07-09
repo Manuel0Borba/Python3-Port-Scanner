@@ -1,5 +1,5 @@
 # Python3-Port-Scanner
-In this repository you can find a simple port scanner developed in python3.
+In this repository you can find a simple port scanner developed in python3 that indicates wich ports are open on a target IPAddress.
 
 Simply download the python script and run it as demonstrated:
 
